@@ -1,7 +1,7 @@
 # wa_lock_bot2
 # WhatsApp-Lock-V1 Coded By @Mo_fora1on
  
-git clone https://github.com/moa926032-hub
+git clone https://github.com/moa926032-hub/wa_lock_bot2/blob/main/README.md
 
 cd WA-Lock
 cd bota2
