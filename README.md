@@ -3,9 +3,10 @@
  
 git clone https://github.com/moa926032-hub/wa_lock_bot2
 
-cd WA-Lock
-cd bota2
-cd bota2
+cd wa_lock_bot2
+   cd bota2
+   cd bota2
+   npm install
 node index.js
 
 # How To Use?
